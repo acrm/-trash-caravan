@@ -1,2 +1,2 @@
-# -trash-caravan
+# Trash-Caravan
 Online board game
