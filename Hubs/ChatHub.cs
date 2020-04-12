@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.SignalR;
 using System.Threading.Tasks;
 
-namespace SignalRWebPack.Hubs
+namespace TrashCaravan.Hubs
 {
     public class ChatHub : Hub
     {    
